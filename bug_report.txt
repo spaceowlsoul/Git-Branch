@@ -1,0 +1,13 @@
+ID
+Summary
+URL
+Steps to reproduce
+Expected Result
+Actual Result
+Reproducibility
+Environment
+Severity
+Priority
+Workaround
+Attachments
+Comments
