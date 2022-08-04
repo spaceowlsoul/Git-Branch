@@ -8,7 +8,6 @@ GitHub. HW_2
 - Charles
 - Mobile_testing
 
-
 Создаем внешний репозиторий c названием Git-Branch.
 
 Клонируем репозиторий Git-Branch на локальный компьютер (папка QA_group_30):
